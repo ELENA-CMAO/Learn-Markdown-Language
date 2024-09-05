@@ -114,7 +114,7 @@ To create a horizontal rule, **use three or more** asterisks (***), dashes (---)
 _________________
 
 ### Escaping Characters
-To display a literal character that would otherwise be used to format text in a Markdown document, add a backslash \(\) in front of the character.
+To display a literal character that would otherwise be used to format text in a Markdown document, add a backslash (\) in front of the character.
 
 \* Without the backslash, this would be a bullet in an unordered list.
 
