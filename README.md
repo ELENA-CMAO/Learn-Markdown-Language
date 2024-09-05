@@ -3,13 +3,13 @@
 ## Basic Syntax
 
 ### Headings
-To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (<h3>), use three number signs (e.g., ### My Header). 
+To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (< h3 >), use three number signs (e.g., ### My Header). 
 
 ### Paragraphs
 To create paragraphs, use a blank line to separate one or more lines of text.
 
 ### Line Breaks
-To create a line break or new line (<br>),  
+To create a line break or new line (< br >),  
 end a line with two or more spaces, and then type return.
 
 ## Emphasis
@@ -80,7 +80,7 @@ To create an unordered list, add **dashes** (-), **asterisks** (*), or **plus si
 - Fourth item 
 
 ### Starting Unordered List Items With Numbers
-If you need to start an unordered list item with a number followed by a period, you can use a *backslash* \(\) to escape the period. (1968\. is a good year.)
+If you need to start an unordered list item with a number followed by a period, you can use a *backslash* ( \ ) to escape the period. (1968\. is a good year.)
 
 ### Links
 To create a link, enclose the link text in **brackets** (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (https://duckduckgo.com)).
@@ -114,7 +114,7 @@ To create a horizontal rule, **use three or more** asterisks (***), dashes (---)
 _________________
 
 ### Escaping Characters
-To display a literal character that would otherwise be used to format text in a Markdown document, add a backslash (\) in front of the character.
+To display a literal character that would otherwise be used to format text in a Markdown document, add a backslash ( \ ) in front of the character.
 
 \* Without the backslash, this would be a bullet in an unordered list.
 
